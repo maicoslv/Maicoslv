@@ -7,7 +7,7 @@ Estudante de **Análise e Desenvolvimento de Sistemas** na FSG (3º semestre), c
 ### 💻 Tecnologias e Ferramentas
 * **Linguagens:** C#, Python
 * **Ecossistema .NET:** .NET CLI, Windows Forms
-* **Ferramentas & Versionamento:** Git, GitHub, VS Code, Visual Studio
+* **Ferramentas & Versionamento:** Git, GitHub, VS Code, Visual Studio, jango, flask.
 * **Outros:** Lógica de Programação, Automação de Tarefas, Web Scraping, Excel Avançado
 
 ---

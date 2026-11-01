@@ -1,16 +1,25 @@
-## Hi there 👋
+### Olá, eu sou o Maico! 👋
 
-<!--
-**maicoslv/Maicoslv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de **Análise e Desenvolvimento de Sistemas** na FSG (3º semestre), com forte foco em desenvolvimento de software, automação de processos e programação orientada a objetos. Atualmente em busca de oportunidades como desenvolvedor júnior ou estágio (focado em **Python** e **C# / .NET**).
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tecnologias e Ferramentas
+* **Linguagens:** C#, Python
+* **Ecossistema .NET:** .NET CLI, Windows Forms
+* **Ferramentas & Versionamento:** Git, GitHub, VS Code, Visual Studio
+* **Outros:** Lógica de Programação, Automação de Tarefas, Web Scraping, Excel Avançado
+
+---
+
+
+### 📜 Certificações e Cursos
+* **Programação Orientada a Objetos** – Instituto Mix
+* **Excel do Básico ao Avançado** – Udemy
+* **Python do Básico ao Avançado** – Udemy *(Em andamento)*
+* **Inglês Intermediário** – Skill Idiomas
+
+---
+
+📫 **Como entrar em contato:**
+* E-mail: maicosilvaslv@gmail.com
